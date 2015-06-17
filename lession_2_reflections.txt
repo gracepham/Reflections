@@ -7,3 +7,22 @@
 
 - Value of the repository are ....
 
+#3 Question: How can you use the staging area to make sure you have one commit per logical change?
+
+- git add [file]
+
+#4 Question: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- Some situations are new version, a new level version of a game. It helps you to keep original version.
+
+#5 Question: How do the diagrams help you visualize the branch structure?
+
+- ...
+
+#6 Question: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+- ...
+
+#7 Question: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+- ...
