@@ -1,5 +1,9 @@
-#1: What happens when you initialize a repository? Why do you need to do it?
+#1 Question: What happens when you initialize a repository? Why do you need to do it?
 
 - A file .git will be auto added to repository, that file contains information about repositoty. 
 - De nhan dien duoc tai nguyen va luu tru thong tin thiet lap cua repository.
+
+#2 Question: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- Value of the repository are ....
 
