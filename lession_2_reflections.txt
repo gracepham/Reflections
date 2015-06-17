@@ -1,0 +1,5 @@
+#1: What happens when you initialize a repository? Why do you need to do it?
+
+- A file .git will be auto added to repository, that file contains information about repositoty. 
+- De nhan dien duoc tai nguyen va luu tru thong tin thiet lap cua repository.
+
